@@ -24,14 +24,20 @@ Hemos descargado el dataset de la opción 1. Sólo traía los datos del municipi
 
 Lo hemos cargado en python a un dataframe de pandas y lo hemos exportado a un csv para poderlo analizar en Power BI.
 
-Campos del dataset:
+# Campos del dataset:
 
 Secció censal/Sección censal/Census section
+
 Districte/Distrito/District
+
 Municipi/Municipio/Municipality
+
 Data/Fecha/Date
+
 Ús/Uso/Use
+
 Nombre de comptadors/Número de contadores/Number of meters
+
 Consum acumulat (L/dia)/Consumo acumulado (L/día)/Accumulated consumption (L/day)
 
 
