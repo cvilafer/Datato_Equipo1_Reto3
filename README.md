@@ -38,7 +38,7 @@ Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y 
 
 ## Campos del dataset:
 
-Secció censal/Sección censal/Census section: Se ha renombrado el nombre a **Censo** y contiene el censo
+Secció censal/Sección censal/Census section: Se ha renombrado el nombre a **Censo** y contiene la sección censal
 
 Districte/Distrito/District: Se ha renombrado el nombre a **Distrito** y contiene el Distrito del consumo
 
