@@ -61,9 +61,13 @@ Power BI, Python
 ## Conclusiones datos analizados:
 
 En el Power BI se puede ver el [análisis de los datos](Analisis_consumo_agua.pbix).
+
 Observamos que el mayor consumo es el Industrial, excepto en los meses de febrero a abril que fué el doméstico.
+
 El distrito que más aporta al consumo industrial es Sants-Montjuic (Zona Franca...)
+
 El que aporta más al consumo doméstico es Ciutat Vella.
+
 Y el Eixample es el que más aporta al consumo comercial.
 
 Observamos una caída muy importante del consumo doméstico hacia abril de 2023 (distritos d'Eixample y Ciutat Vella). Justo coincide con la sequía y con la activación de excepcionalidad de marzo 2023:
