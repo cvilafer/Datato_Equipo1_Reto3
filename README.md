@@ -60,7 +60,13 @@ Power BI, Python
 
 ## Conclusiones datos analizados:
 
-En el Power BI se puede ver el [análisis de los datos](Analisis_consumo_agua.pbix). Observamos una caída muy importante del consumo doméstico hacia abril de 2023. Justo coincide con la sequía y con la activación de excepcionalidad de marzo 2023:
+En el Power BI se puede ver el [análisis de los datos](Analisis_consumo_agua.pbix).
+Observamos que el mayor consumo es el Industrial, excepto en los meses de febrero a abril que fué el doméstico.
+El distrito que más aporta al consumo industrial es Sants-Montjuic (Zona Franca...)
+El que aporta más al consumo doméstico es Ciutat Vella.
+Y el Eixample es el que más aporta al consumo comercial.
+
+Observamos una caída muy importante del consumo doméstico hacia abril de 2023 (distritos d'Eixample y Ciutat Vella). Justo coincide con la sequía y con la activación de excepcionalidad de marzo 2023:
 
 https://www.totbarcelona.cat/es/sociedad/los-hogares-de-barcelona-reducen-el-consumo-agua-en-plena-sequia-438255/#:~:text=Cuando%20el%20marzo%20del%202023,litro%20menos%20que%20en%20marzo
 
