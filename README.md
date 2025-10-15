@@ -22,40 +22,39 @@ A partir de los datos disponibles, identifica zonas y períodos con consumos ele
 
 ## Bases de datos sugeridas:
 
-1. Datos de consumo de agua en la ciudad de Barcelona proporcionados por Aigües de Barcelona (es necesario registrarse para obtener los datos).
+1. [Datos de consumo de agua](https://www.abdatachallenge.cat/) en la ciudad de Barcelona proporcionados por Aigües de Barcelona (es necesario registrarse para obtener los datos).
 
-2. Este enlace dirige al Catálogo de Datos Abiertos de la Agencia Catalana del Agua (ACA), donde se pueden consultar y descargar diversos conjuntos de datos relacionados con la gestión del agua en Cataluña.
+2. Este [enlace](https://aca.gencat.cat/ca/laigua/consulta-de-dades/dades-obertes/cataleg-dades-obertes/) dirige al Catálogo de Datos Abiertos de la Agencia Catalana del Agua (ACA), donde se pueden consultar y descargar diversos conjuntos de datos relacionados con la gestión del agua en Cataluña.
 
-3. Datos climatológicos de AEMET (Agencia Estatal de Meteorología).
+3. [Datos climatológicos](https://www.aemet.es/ca/serviciosclimaticos/datosclimatologicos) de AEMET (Agencia Estatal de Meteorología).
 
 ------------------------------
 
 ## Bases de datos usadas:
 
-Hemos descargado el dataset de la opción 1. Traía los datos del municipio de Barcelona y no de todo el Área metropolitana, y para 2023. Se puede ver el fichero [Aquí](https://github.com/tu-usuario/tu-repo/raw/main/data/Mostra%20Set%20de%20dades%201_%20Consum%20total%20agregat.parquet)
+Hemos descargado el dataset de la opción 1. Contiene los datos del municipio de Barcelona para 2023. Se puede ver el fichero [Aquí](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/Consumo_agua.parquet)
 
-
-Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y lo hemos exportado a un csv para poderlo analizar en Power BI.
+Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y lo hemos exportado a un [excel](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/Consumo_agua.xlsx) para poderlo analizar en Power BI.
 
 ## Campos del dataset:
 
-Secció censal/Sección censal/Census section
+Secció censal/Sección censal/Census section: Se ha renombrado el nombre a **Censo** y contiene la sección censal
 
-Districte/Distrito/District
+Districte/Distrito/District: Se ha renombrado el nombre a **Distrito** y contiene el Distrito del consumo
 
-Municipi/Municipio/Municipality
+Municipi/Municipio/Municipality: Se ha renombrado el nombre a **Municipio** y contiene el Municipio del consumo
 
-Data/Fecha/Date
+Data/Fecha/Date: Se ha renombrado el nombre a **Fecha** y contiene la fecha del consumo
 
-Ús/Uso/Use
+Ús/Uso/Use: Se ha renombrado el nombre a **Uso** y contiene el tipo de uso Industrial/Comercial/Doméstico
 
-Nombre de comptadors/Número de contadores/Number of meters
+Nombre de comptadors/Número de contadores/Number of meters: Se ha renombrado el nombre a **Número de contadores** y contiene el número de contadores que hay
 
-Consum acumulat (L/dia)/Consumo acumulado (L/día)/Accumulated consumption (L/day)
+Consum acumulat (L/dia)/Consumo acumulado (L/día)/Accumulated consumption (L/day): Se ha renombrado a **Consumo acumulado (L/día)** y contiene el consumo en litros acumulados del día
 
 ## Herramientas usadas para análisis:
 
-Power BI
+Power BI, Python
 
 ## Conclusiones datos analizados:
 
@@ -65,5 +64,7 @@ https://www.totbarcelona.cat/es/sociedad/los-hogares-de-barcelona-reducen-el-con
 
 01/11/2023 10:20
 "Cuando el marzo del 2023 se activó la fase de excepcionalidad, que actualmente todavía está en vigor, los hogares de Barcelona tenían un consumo acumulado de 103 litros por persona y día. Este consumo solo contabiliza el consumo doméstico de agua sin tener en cuenta el agua que usan la industria, los comercios y los servicios municipales. Si se suman estos otros usos, según los mismos datos del consistorio, a septiembre del 2023 lo consumo de agua total en Barcelona es de 173 litros por persona y día, un litro menos que en marzo."
+
+![Agua cuencas internas Catalunya](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/agua_cuencas_internas_catalunya.png)
 
 
