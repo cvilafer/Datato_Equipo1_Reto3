@@ -56,4 +56,3 @@ https://www.totbarcelona.cat/es/sociedad/los-hogares-de-barcelona-reducen-el-con
 "Cuando el marzo del 2023 se activó la fase de excepcionalidad, que actualmente todavía está en vigor, los hogares de Barcelona tenían un consumo acumulado de 103 litros por persona y día. Este consumo solo contabiliza el consumo doméstico de agua sin tener en cuenta el agua que usan la industria, los comercios y los servicios municipales. Si se suman estos otros usos, según los mismos datos del consistorio, a septiembre del 2023 lo consumo de agua total en Barcelona es de 173 litros por persona y día, un litro menos que en marzo."
 
 
-
