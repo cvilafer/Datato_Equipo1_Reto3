@@ -32,9 +32,9 @@ A partir de los datos disponibles, identifica zonas y períodos con consumos ele
 
 ## Bases de datos usadas:
 
-Hemos descargado el dataset de la opción 1. Traía los datos del municipio de Barcelona y no de todo el Área metropolitana, y para 2023. Se puede ver el fichero [Aquí](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/Consumo_agua.parquet)
+Hemos descargado el dataset de la opción 1. Contiene los datos del municipio de Barcelona para 2023. Se puede ver el fichero [Aquí](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/Consumo_agua.parquet)
 
-Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y lo hemos exportado a un csv para poderlo analizar en Power BI.
+Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y lo hemos exportado a un [excel](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/Consumo_agua.xlsx) para poderlo analizar en Power BI.
 
 ## Campos del dataset:
 
