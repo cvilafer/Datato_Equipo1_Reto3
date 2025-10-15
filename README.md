@@ -1,22 +1,32 @@
-# Repte 3: Consum d’Aigua i Pressió Hídrica a l’Àrea Metropolitana de Barcelona
+# Reto 3: Consumo de Agua y Presión Hídrica en el Área Metropolitana de Barcelona
 
-## Tòpic: Medi ambient i sostenibilitat
+## Tópico: Medio ambiente y sostenibilidad
 
-## Agenda 2030: ODS 6 – Aigua neta i sanejament | ODS 13 – Acció pel clima
+## Agenda 2030: ODS 6 – Agua limpia y saneamiento | ODS 13 – Acción por el clima
 
-Descripció: L’aigua és un recurs natural fonamental per al benestar de la població, el funcionament de l’economia i la sostenibilitat ambiental. Tot i això, a les ciutats, el consum d’aigua s’ha mantingut elevat o fins i tot creixent, malgrat la major conscienciació ciutadana i les campanyes d’estalvi. En un context de canvi climàtic, amb períodes més llargs de sequera, temperatures més altes i precipitacions més irregulars, aquesta situació genera una pressió cada vegada més intensa sobre el sistema hídric.
+## Descripción:
 
-L’Àrea Metropolitana de Barcelona és un exemple clar d’aquesta tensió: alta densitat de població, activitat econòmica intensa i un ús extensiu del recurs hídric en tots els sectors. Els patrons de consum varien molt segons el moment del dia, l’estació de l’any, l’ús (domèstic, comercial o industrial) i el context climàtic. Això dificulta identificar amb claredat on i quan es produeixen usos excessius o ineficients que podrien ser corregits amb mesures específiques.
+El agua es un recurso natural fundamental para el bienestar de la población, el funcionamiento de la economía y la sostenibilidad ambiental. Sin embargo, en las ciudades, el consumo de agua se ha mantenido elevado o incluso en aumento, a pesar de una mayor concienciación ciudadana y de las campañas de ahorro.
 
-## Objectiu i lliurament dades:
+En un contexto de cambio climático, con períodos de sequía más prolongados, temperaturas más altas y precipitaciones más irregulares, esta situación genera una presión cada vez más intensa sobre el sistema hídrico.
 
-Com es distribueix el consum d’aigua a l’Àrea Metropolitana de Barcelona en funció del tipus d’ús, l’estació de l’any, el moment del dia i les condicions ambientals? A partir de les dades disponibles, identifica zones i períodes amb consums elevats o ineficients, construeix indicadors clau per fer-ne seguiment, i proposa recomanacions per una millor gestió del recurs hídric.
+El Área Metropolitana de Barcelona es un claro ejemplo de esta tensión: alta densidad de población, intensa actividad económica y un uso extensivo del recurso hídrico en todos los sectores.
 
+Los patrones de consumo varían mucho según el momento del día, la estación del año, el tipo de uso (doméstico, comercial o industrial) y el contexto climático. Esto dificulta identificar con claridad dónde y cuándo se producen usos excesivos o ineficientes que podrían corregirse mediante medidas específicas.
 
-## Bases de dades suggerides:
-1. Dades de consum d’aigua a la ciutat de Barcelona proporcionades per Aigües de Barcelona (cal registre per obtenir les dades).
-2. Aquest enllaç dirigeix al Catàleg de Dades Obertes de l’Agència catalana de l’Aigua (ACA), on es poden consultar i descarregar diversos conjunts de dades relacionats amb la gestió de l’aigua a Catalunya.
-3. Dades climatològiques de AEMET.
+## Objetivo y entrega de datos:
+
+¿Cómo se distribuye el consumo de agua en el Área Metropolitana de Barcelona en función del tipo de uso, la estación del año, el momento del día y las condiciones ambientales?
+
+A partir de los datos disponibles, identifica zonas y períodos con consumos elevados o ineficientes, construye indicadores clave para su seguimiento, y propone recomendaciones para una mejor gestión del recurso hídrico.
+
+## Bases de datos sugeridas:
+
+1. Datos de consumo de agua en la ciudad de Barcelona proporcionados por Aigües de Barcelona (es necesario registrarse para obtener los datos).
+
+2. Este enlace dirige al Catálogo de Datos Abiertos de la Agencia Catalana del Agua (ACA), donde se pueden consultar y descargar diversos conjuntos de datos relacionados con la gestión del agua en Cataluña.
+
+3. Datos climatológicos de AEMET (Agencia Estatal de Meteorología).
 
 ------------------------------
 
