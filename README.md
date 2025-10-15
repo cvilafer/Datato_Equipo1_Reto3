@@ -17,3 +17,9 @@ Com es distribueix el consum d’aigua a l’Àrea Metropolitana de Barcelona en
 1. Dades de consum d’aigua a la ciutat de Barcelona proporcionades per Aigües de Barcelona (cal registre per obtenir les dades).
 2. Aquest enllaç dirigeix al Catàleg de Dades Obertes de l’Agència catalana de l’Aigua (ACA), on es poden consultar i descarregar diversos conjunts de dades relacionats amb la gestió de l’aigua a Catalunya.
 3. Dades climatològiques de AEMET.
+
+------------------------------
+
+Hemos descargado el dataset de la opción 1. Sólo traía los datos del municipio de Barcelona y no de todo el Área metropolitana.
+
+Lo hemos cargado en python a un dataframe de pandas y lo hemos exportado a un csv para poderlo analizar en Power BI.
