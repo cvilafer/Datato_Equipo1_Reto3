@@ -20,9 +20,11 @@ Com es distribueix el consum d’aigua a l’Àrea Metropolitana de Barcelona en
 
 ------------------------------
 
+## Bases de datos usadas:
+
 Hemos descargado el dataset de la opción 1. Sólo traía los datos del municipio de Barcelona y no de todo el Área metropolitana.
 
-Lo hemos cargado en python a un dataframe de pandas y lo hemos exportado a un csv para poderlo analizar en Power BI.
+Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y lo hemos exportado a un csv para poderlo analizar en Power BI.
 
 ## Campos del dataset:
 
