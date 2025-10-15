@@ -40,6 +40,10 @@ Nombre de comptadors/Número de contadores/Number of meters
 
 Consum acumulat (L/dia)/Consumo acumulado (L/día)/Accumulated consumption (L/day)
 
+## Herramientas usadas para análisis:
+
+Power BI
+
 ## Conclusiones datos analizados:
 
 Observamos una caída muy importante del consumo doméstico hacia abril de 2023. Justo coincide con la sequía y con la activación de excepcionalidad de marzo 2023:
