@@ -32,7 +32,8 @@ A partir de los datos disponibles, identifica zonas y períodos con consumos ele
 
 ## Bases de datos usadas:
 
-Hemos descargado el dataset de la opción 1. Sólo traía los datos del municipio de Barcelona y no de todo el Área metropolitana, y solo para 2023. (opción "SET DE DADES 1 - CONSUM TOTAL AGREGAT")
+Hemos descargado el dataset de la opción 1. Traía los datos del municipio de Barcelona y no de todo el Área metropolitana, y para 2023. Se puede ver el fichero [Aquí](https://github.com/tu-usuario/tu-repo/raw/main/data/Mostra%20Set%20de%20dades%201_%20Consum%20total%20agregat.parquet)
+
 
 Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y lo hemos exportado a un csv para poderlo analizar en Power BI.
 
