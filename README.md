@@ -36,6 +36,8 @@ Hemos descargado el dataset de la opción 1. Contiene los datos del municipio de
 
 Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y lo hemos exportado a un [excel](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/Consumo_agua.xlsx) para poderlo analizar en Power BI.
 
+De la opción 2 del ACA hemos descargado el gráfico del estado de los embalses desde 2020 hasta 2023 para ver la evolución de la sequía.
+
 ## Campos del dataset:
 
 Secció censal/Sección censal/Census section: Se ha renombrado el nombre a **Censo** y contiene la sección censal
@@ -62,8 +64,7 @@ Observamos una caída muy importante del consumo doméstico hacia abril de 2023.
 
 https://www.totbarcelona.cat/es/sociedad/los-hogares-de-barcelona-reducen-el-consumo-agua-en-plena-sequia-438255/#:~:text=Cuando%20el%20marzo%20del%202023,litro%20menos%20que%20en%20marzo
 
-01/11/2023 10:20
-"Cuando el marzo del 2023 se activó la fase de excepcionalidad, que actualmente todavía está en vigor, los hogares de Barcelona tenían un consumo acumulado de 103 litros por persona y día. Este consumo solo contabiliza el consumo doméstico de agua sin tener en cuenta el agua que usan la industria, los comercios y los servicios municipales. Si se suman estos otros usos, según los mismos datos del consistorio, a septiembre del 2023 lo consumo de agua total en Barcelona es de 173 litros por persona y día, un litro menos que en marzo."
+![Noticia sequía](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/noticia_sequia1.png)
 
 ![Agua cuencas internas Catalunya](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/agua_cuencas_internas_catalunya.png)
 
