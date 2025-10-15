@@ -54,7 +54,7 @@ Consum acumulat (L/dia)/Consumo acumulado (L/día)/Accumulated consumption (L/da
 
 ## Herramientas usadas para análisis:
 
-Power BI
+Power BI, Python
 
 ## Conclusiones datos analizados:
 
