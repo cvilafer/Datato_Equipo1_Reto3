@@ -38,19 +38,19 @@ Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y 
 
 ## Campos del dataset:
 
-Secció censal/Sección censal/Census section
+Secció censal/Sección censal/Census section: Se ha renombrado el nombre a **Censo** y contiene el censo
 
-Districte/Distrito/District
+Districte/Distrito/District: Se ha renombrado el nombre a **Distrito** y contiene el Distrito del consumo
 
-Municipi/Municipio/Municipality
+Municipi/Municipio/Municipality: Se ha renombrado el nombre a **Municipio** y contiene el Municipio del consumo
 
-Data/Fecha/Date
+Data/Fecha/Date: Se ha renombrado el nombre a **Fecha** y contiene la fecha del consumo
 
-Ús/Uso/Use
+Ús/Uso/Use: Se ha renombrado el nombre a **Uso** y contiene el tipo de uso Industrial/Comercial/Doméstico
 
-Nombre de comptadors/Número de contadores/Number of meters
+Nombre de comptadors/Número de contadores/Number of meters: Se ha renombrado el nombre a **Número de contadores** y contiene el número de contadores que hay
 
-Consum acumulat (L/dia)/Consumo acumulado (L/día)/Accumulated consumption (L/day)
+Consum acumulat (L/dia)/Consumo acumulado (L/día)/Accumulated consumption (L/day): Se ha renombrado a **Consumo acumulado (L/día)** y contiene el consumo en litros acumulados del día
 
 ## Herramientas usadas para análisis:
 
