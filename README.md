@@ -10,4 +10,10 @@ L’Àrea Metropolitana de Barcelona és un exemple clar d’aquesta tensió: al
 
 # Objectiu i lliurament dades:
 
-Com es distribueix el consum d’aigua a l’Àrea Metropolitana de Barcelona en funció del tipus d’ús, l’estació de l’any, el moment del dia i les condicions ambientals? A partir de les dades disponibles, identifica zones i períodes amb consums elevats o ineficients, construeix
+Com es distribueix el consum d’aigua a l’Àrea Metropolitana de Barcelona en funció del tipus d’ús, l’estació de l’any, el moment del dia i les condicions ambientals? A partir de les dades disponibles, identifica zones i períodes amb consums elevats o ineficients, construeix indicadors clau per fer-ne seguiment, i proposa recomanacions per una millor gestió del recurs hídric.
+
+
+# Bases de dades suggerides:
+1. Dades de consum d’aigua a la ciutat de Barcelona proporcionades per Aigües de Barcelona (cal registre per obtenir les dades).
+2. Aquest enllaç dirigeix al Catàleg de Dades Obertes de l’Agència catalana de l’Aigua (ACA), on es poden consultar i descarregar diversos conjunts de dades relacionats amb la gestió de l’aigua a Catalunya.
+3. Dades climatològiques de AEMET.
