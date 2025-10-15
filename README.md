@@ -60,7 +60,7 @@ Power BI, Python
 
 ## Conclusiones datos analizados:
 
-Observamos una caída muy importante del consumo doméstico hacia abril de 2023. Justo coincide con la sequía y con la activación de excepcionalidad de marzo 2023:
+En el Power BI se puede ver el [análisis de los datos](Analisis_consumo_agua.pbix). Observamos una caída muy importante del consumo doméstico hacia abril de 2023. Justo coincide con la sequía y con la activación de excepcionalidad de marzo 2023:
 
 https://www.totbarcelona.cat/es/sociedad/los-hogares-de-barcelona-reducen-el-consumo-agua-en-plena-sequia-438255/#:~:text=Cuando%20el%20marzo%20del%202023,litro%20menos%20que%20en%20marzo
 
