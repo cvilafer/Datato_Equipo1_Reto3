@@ -36,6 +36,8 @@ Hemos descargado el dataset de la opción 1. Contiene los datos del municipio de
 
 Lo hemos cargado desde el fichero .parquet en python a un dataframe de pandas y lo hemos exportado a un [excel](https://github.com/cvilafer/Datato_Equipo1_Reto3/blob/main/Consumo_agua.xlsx) para poderlo analizar en Power BI.
 
+De la opción 2 del ACA hemos descargado el gráfico del estado de los embalses desde 2020 hasta 2023 para ver la evolución de la seguía.
+
 ## Campos del dataset:
 
 Secció censal/Sección censal/Census section: Se ha renombrado el nombre a **Censo** y contiene la sección censal
